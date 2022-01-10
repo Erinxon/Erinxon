@@ -1,14 +1,19 @@
-- 👋 Hola, soy Erinxon Santana
-- 👨‍💻 Me gusta programar
-- 👨‍🎓 Actualmente estoy estudiando desarrollo de software en el Instituto Tecnológico de Las Américas (ITLA)
+## Perfil
+- 👋 Hola, mi nombre es Erinxon Santana.
+- 👨‍💻 Soy un desarrollador de Software.
+- 👨‍🎓 Actualmente estoy estudiando desarrollo de software en el Instituto Tecnológico de Las Américas (ITLA).
 - ✉️ erinxons@gmail.com
-
-<!---
-Erinxon/Erinxon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+## Habilidades
+- CSS
+- HTML
+- C#
+- .NET CORE
+- Angular
+- IONIC
+- SQL
+- T-SQL
+- JSON
 ## Estadisticas - GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erinxon)](https://github.com/anuraghazra/github-readme-stats)
+![Erinxon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erinxon&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erinxon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erinxon&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
