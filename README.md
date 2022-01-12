@@ -6,6 +6,8 @@
 ## Habilidades
 - CSS
 - HTML
+- JavaScript
+- TypeScript
 - C#
 - .NET CORE
 - Angular
