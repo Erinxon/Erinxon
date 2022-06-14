@@ -1,7 +1,7 @@
 ## Perfil
 - 👋 Hola, mi nombre es Erinxon Santana.
 - 👨‍💻 Soy un desarrollador de Software.
-- 👨‍🎓 Actualmente estoy estudiando desarrollo de software en el Instituto Tecnológico de Las Américas (ITLA).
+- 👨‍🎓 Soy egresado de la carrera de desarrollo de software en el Instituto Tecnológico de Las Américas (ITLA).
 - ✉️ erinxons@gmail.com
 ## Habilidades
 - CSS
